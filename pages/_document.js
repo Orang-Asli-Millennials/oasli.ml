@@ -8,8 +8,8 @@ class MyDocument extends Document {
 
   render() {
     const meta = {
-      title: 'De Amour Blog',
-      description: 'Dapatkan info barangan menarik di sini.',
+      title: 'Orang Asli Millennials',
+      description: 'Sumber rujukan Khazanah Orang Asli.',
       image:
         'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
     }
